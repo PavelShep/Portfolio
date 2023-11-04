@@ -15,8 +15,8 @@
     }
     &__descr {
         padding-top: 6px;
-        .about {
-            margin-top: 0;
+        .divider {
+            margin: 0;
         }
     }
     &__title {
@@ -24,6 +24,9 @@
         padding-left: 12px;
         padding-top: 1px;
         @include before_circle;
+    }
+    &__subtitle {
+        line-height: 60px;
     }
     &__text {
         margin-top: 20px;
