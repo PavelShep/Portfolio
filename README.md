@@ -26,7 +26,7 @@ To get a copy of this project up and running on your local machine, follow these
 2. Navigate to the project directory:
 
     ```bash
-    cd Pulse
+    cd Portfolio
     ```
 
 3. Install the required dependencies using npm:
